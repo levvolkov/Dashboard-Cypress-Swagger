@@ -8,7 +8,7 @@
   * Написаны spec-тест с UI-тестом для бронирования фильма в доступный зал, название которого получено из админки.
   * Написан набор тестов на работу серверного API.
   * Добавлены фикстуры для хранения данных необходимых для тестов. 
-  * Подключен Cypress Cloud Dashboard.
+  * Подключен Cypress Cloud [Dashboard](https://cloud.cypress.io/projects/tfwkz8/runs?branches=%5B%5D&committers=%5B%5D&flaky=%5B%5D&page=1&status=%5B%5D&tags=%5B%5D&tagsMatch=ANY&timeRange=%7B%22startDate%22%3A%222023-07-24%22%2C%22endDate%22%3A%222024-07-23%22%7D).
 ---------------------
   
   
