@@ -1,0 +1,23 @@
+{
+  "name": "dashboard-cypress-swagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test1": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LevVolkov/Dashboard-Cypress-Swagger.git"
+  },
+  "author": "Lev Volkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LevVolkov/Dashboard-Cypress-Swagger/issues"
+  },
+  "homepage": "https://github.com/LevVolkov/Dashboard-Cypress-Swagger#readme",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}

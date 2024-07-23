@@ -1,0 +1,6 @@
+{
+  "email": "input[placeholder='example@domain.xyz']",
+  "password": "input[name='password']",
+  "buttonLoginIn": ".login__button",
+  "hallOpening": "#start-sales"
+}
